@@ -1,3 +1,2 @@
-# Hadith Classification and Kernel Naive-Bayes Feature Selection
-This project is based on a journal: "An Effective Arabic Text Classification Approach Based on Kernel Naive Bayes Classifier".
-A method for text classification with Kernel Naive-Bayes probability feature selection. A collaboration with my colleague in Computational Mathematics concentration; Yulia Dwi Lestari, was then carried out to apply this method to the hadith text where the analysis of the results obtained can be found in her thesis entitled "Klasifikasi Data Teks Menggunakan Kernel Naive-Bayes Feature Selection untuk Data Hadis".
+# Analysis of Kernel Function in the Naive-Bayes Kernel Classifier Method on Hadith Data
+This project is based on a journal: "An Effective Arabic Text Classification Approach Based on Kernel Naive Bayes Classifier". A method for text classification with Kernel Naive-Bayes probability feature selection. A collaboration with my colleague, Yulia Dwi Lestari, is ongoing to implement this method for hadith data as her thesis research: "Klasifikasi Data Teks Menggunakan Kernel Naive-Bayes Feature Selection untuk Data Hadis".
